@@ -51,3 +51,10 @@ They can sample the media streams they have access to:
 
 
 
+_This Book Of Shadows_
+
+This repo holds the C&C rituals for the bots to refer to, aids programming the bots for the chosen ritual, of course the bots can be programmed directly 
+but here we like an ease of reuse feature. :-)
+
+What this repo does not hold is the IRC bots or the backend code. That is somewhere else as the IRC server holds each bot private coven working group.
+
