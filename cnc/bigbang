@@ -7,13 +7,25 @@ summon deity.serqet
 bob your gender is male
 bob join coven working1
 bob your role is hp
+bob brain save
+bob brain auto save on
 kate your gender is female
 kate join coven working1
 kate your role is hps
+kate brain save
+kate brain auto save on
 net your coven is working1
+net brain save
+net brain auto save on
 nebt your coven is working1
+nebt brain save
+nebt brain auto save on
 asut your coven is working1
+asut brain save
+asut brain auto save on
 serqet your coven is working1
+serqet brain save
+serqet brain auto save on
 summon kiya
 summon duppy
 summon deity.tial
@@ -21,12 +33,20 @@ summon deity.dren
 kiya your gender is female
 kiya join coven forgotten
 kiya your role is hps
+kiya brain save
+kiya brain auto save on
 duppy your gender is male
 duppy join coven forgotten
 duppy your role is hp
+duppy brain save
+duppy brain auto save
 tial your gender is male
 tial join coven forgotten
+tial brain save
+tial brain auto save on
 dren your gender is female
 dren join coven forgotten
+dren brain save
+dren brain auto save on
 die
 
