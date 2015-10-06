@@ -26,15 +26,12 @@ or for the bot to control other bots.
 |context-waiting     | brain reset                                      | Remove any saved settings and stop                                   |
 |context-waiting     | brain save                                       | Save the current language structure                                  |
 |context-waiting     | die                                              | Cause bot to stop                                                    |
-|context-waiting     | hello                                            | Say hello                                                            |
-|context-waiting     | hi                                               | Say hello                                                            |
 |context-waiting     | hokbos                                           | Learn a something from the hokbot-bos git repo instead of learning li|
 |context-waiting     | join coven                                       | Assign the coven that this bot will work from                        |
 |context-waiting     | list rituals                                     | List out the rituals the bot knows                                   |
 |context-waiting     | listen                                           | Trigger learning mode                                                |
 |context-waiting     | perform ritual                                   | Start a learned ritual                                               |
 |context-waiting     | perform script                                   | Start a learned ritual                                               |
-|context-waiting     | perform-ritual                                   | TODO                                                                 |
 |context-waiting     | rejoin                                           | Force a rejoin to the coven                                          |
 |context-waiting     | ritual                                           | TODO                                                                 |
 |context-waiting     | select empowerment                               | Set the engine to use in sigil creation                              |
@@ -42,6 +39,7 @@ or for the bot to control other bots.
 |context-waiting     | sigil                                            | Trigger sigil creation                                               |
 |context-waiting     | sleep                                            | TODO                                                                 |
 |context-waiting     | speach                                           | Enable a physical speach engine if the bot is on hardward such as a R|
+|context-waiting     | summon                                           | Create new life                                                      |
 |context-waiting     | teach ritual                                     | Ask some to teach the ritual to all present                          |
 |context-waiting     | test                                             | Testing                                                              |
 |context-waiting     | your colour pallete is                           | TODO                                                                 |
@@ -58,3 +56,4 @@ or for the bot to control other bots.
 |context-waiting     | your sub encoding method is                      | TODO                                                                 |
 |context-waiting     | your sub intent is                               | Set any other intents for repeated sigil generations within the ritua|
 |context-waiting     | your target is                                   | TODO                                                                 |
+|perform-ritual      |                                                  | TODO                                                                 |
