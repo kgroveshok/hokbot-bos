@@ -1,6 +1,25 @@
 This document lists the various language contexts and the syntax that can be used to control the bot,
 or for the bot to control other bots.
 
+_Rendering engines supported_
+
+|Intent Encoding|Description                              |
+|---------------|-----------------------------------------|
+|aos            |Removes duplicate letters                |
+|aosv           |As above and removes vowels from intent  |
+|none           |Passes the intent as given               |
+
+|Sigil Generator|Description                              |
+|---------------|-----------------------------------------|
+|3sq            |                                         |
+|snowflake      |Draw a random snowflake                  |
+|smudge         |Draws a random smudge                    |
+|spiral         |Draws a random spiral                    |
+|3sqalpha       |                                         |
+|3sqmerlin      |                                         |
+|lettergrid     |Form a 2D letter grid                    |
+|rune (runes)   |Pick a rune from keywords in intent      |
+_Language Syntax_
 
 |Context             |Command                                           |Description                                                           |
 |--------------------|--------------------------------------------------|----------------------------------------------------------------------|
