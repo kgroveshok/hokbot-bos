@@ -61,18 +61,18 @@ _Language Syntax_
 |context-waiting     | summon                                           | Create new life                                                      |
 |context-waiting     | teach ritual                                     | Ask some to teach the ritual to all present                          |
 |context-waiting     | test                                             | Testing                                                              |
-|context-waiting     | your colour pallete is                           | TODO                                                                 |
-|context-waiting     | your creation method is                          | TODO                                                                 |
-|context-waiting     | your encoding method is                          | TODO                                                                 |
-|context-waiting     | your gender is                                   | TODO                                                                 |
+|context-waiting     | your colour pallete is                           | N/A                                                                  |
+|context-waiting     | your creation method is                          | Assign the sigil creation method                                     |
+|context-waiting     | your encoding method is                          | Assign the encoding method for the ritual                            |
+|context-waiting     | your gender is                                   | Assign a gender to this bot                                          |
 |context-waiting     | your intent is                                   | Set the intent of the ritual                                         |
 |context-waiting     | your role is                                     | Assign a role within the ritual                                      |
-|context-waiting     | your secondary creation method is                | TODO                                                                 |
-|context-waiting     | your secondary encoding method is                | TODO                                                                 |
-|context-waiting     | your secondary intent is                         | TODO                                                                 |
-|context-waiting     | your source is                                   | TODO                                                                 |
-|context-waiting     | your sub creation method is                      | TODO                                                                 |
-|context-waiting     | your sub encoding method is                      | TODO                                                                 |
+|context-waiting     | your secondary creation method is                | Assign the sigil creation method                                     |
+|context-waiting     | your secondary encoding method is                | Assign encoding method for the ritual                                |
+|context-waiting     | your secondary intent is                         | Grant the intent                                                     |
+|context-waiting     | your source is                                   | N/A                                                                  |
+|context-waiting     | your sub creation method is                      | Extra creation methods                                               |
+|context-waiting     | your sub encoding method is                      | Extra encoding methods                                               |
 |context-waiting     | your sub intent is                               | Set any other intents for repeated sigil generations within the ritua|
-|context-waiting     | your target is                                   | TODO                                                                 |
-|perform-ritual      |                                                  | TODO                                                                 |
+|context-waiting     | your target is                                   | Assign an email recipient for the generated sigil                    |
+|perform-ritual      |                                                  | Main context for ritual processing                                   |
