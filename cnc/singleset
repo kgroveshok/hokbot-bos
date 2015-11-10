@@ -1,0 +1,5 @@
+summon tester1
+tester1 join coven singletest
+brain save
+brain save auto on
+tester1 die
