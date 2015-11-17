@@ -69,9 +69,7 @@ need to be explained, some do, and here they are:
 ## _3sq_
 
 |ajs|bkt|clu|
-|---|---|---|
 |dmv|enw|fox|
-|---|---|---|
 |gpy|hqz|ip |
 
 Circle for start and cross line for end
@@ -80,11 +78,11 @@ Circle for start and cross line for end
 
 Number square for letter to number
 
+
 |1|2|3|
-|-|-|-|
 |4|5|6|
-|-|-|-|
 |7|8|9|
+
 
 
 |1|a|j|s|
@@ -102,9 +100,7 @@ Number square for letter to number
 Alphabet sequenced 3x3 grid Rosicrucian chiper
 
 |abc|def|ghi|
-|---|---|---|
 |jkl|mno|pqr|
-|---|---|---|
 |stu|vwx|yz |
 
 ## _lettergrid_
@@ -114,25 +110,25 @@ Form a 2D letter grid places the letters left to right, top to bottom and revers
 ## _rune_ (runes)
 Pick a rune from keywords in intent using the _web of wyrd_ rune layout
 
-r| rad wheel travel journey going away holiday 
-w| wyn joy pleasure happiness 
-g| gyfu gift present 
-k| cen fire heat torch enlighten
-a| os divine wisdom know knowledge
-th|porn thorn physical summon conjour
-u| ur masculine drizzle man male youth young animal strength
-f| feoh belongings cattle money currency wealth fortune
-s| sigil sun positive heat
-z| eolh protection female feminine ward
-y| eoh death decay ending end
-p| peorth hearth fruit chance random luck
-i| is matter ice light cold north freeze stop
-n| nyd destiny distress fate wyd
-h| hagel hail weather rain storm
-d| daeg dawn day rise wake
-o| odal home family ancestor place homeland world
-l| lagu lake water sea ocean womb
-m|mannaz loyalty oath
-e| eh horse animal
-b| beorc lore rune birth children
-t| tyr war fight victory tree might right
+|r| rad wheel travel journey going away holiday                       |
+|w| wyn joy pleasure happiness                                        |
+|g| gyfu gift present                                                 |
+|k| cen fire heat torch enlighten                                     |
+|a| os divine wisdom know knowledge                                   |
+|th|porn thorn physical summon conjour                                |
+|u| ur masculine drizzle man male youth young animal strength         |
+|f| feoh belongings cattle money currency wealth fortune              |
+|s| sigil sun positive heat                                           |
+|z| eolh protection female feminine ward                              |
+|y| eoh death decay ending end                                        |
+|p| peorth hearth fruit chance random luck                            |
+|i| is matter ice light cold north freeze stop                        |
+|n| nyd destiny distress fate wyd                                     |
+|h| hagel hail weather rain storm                                     |
+|d| daeg dawn day rise wake                                           |
+|o| odal home family ancestor place homeland world                    |
+|l| lagu lake water sea ocean womb                                    |
+|m|mannaz loyalty oath                                                |    
+|e| eh horse animal                                                   |
+|b| beorc lore rune birth children                                    |
+|t| tyr war fight victory tree might right                            |
