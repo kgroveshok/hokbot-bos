@@ -7,7 +7,7 @@ But if you insist then this is a CM bot.
 
 21st June 2015
 
-_Objective_
+## Objective
 
 Using technology to manifest intent 
 
@@ -17,13 +17,13 @@ Inspiration taken from a number of magical techniques:
 * Chaos theory that a single action creates a series of cascaded events
 * Egregores/thought forms created and modelled in each bot which grant their own unique approach. Made via programming the bots skill domain and individual personality tendencies. A software bot driven by artificial intelligence methods is an interesting and natural evolution of a long established concept.
 
-_Input_
+## Input
 
 Each bot that forms the ‘coven’ or working group will each be programmed with specific domains of magical skill, knowledge and access to a particular tradition. They will also be assigned a role within that group. The egregore will further be enforced by naming and given some subtle variation in how they interact with each other and with the environment external to them.
 
 The HP/HPS bot when instructed to enact a manifestation ritual will receive the request and arrange the construction of the result, which depending on the particular approach of the group, and the resultant charged/created sigil will then be disseminated via the group across the internet for manifestation.
 
-_Output_
+## Output
 
 Each bot as part of its personality programming will be provided with a set of ‘interests’ which will form a number of features, one of which is how the group will cause the manifestation to occur and this is by interaction with the human group mind. ie social media
 
@@ -35,7 +35,7 @@ If the any of the bots has particular access to physical devices they will be us
 
 Of course the bot is not 'magical' as such, we still require the innate ability of the human (sub)conciousness to act as interface to the universe (or multiverse) or event probablity.
 
-_Randomness_
+## Randomness
 
 A source/seed of randomness as part of the input process is important and the bots will be well placed to source many forms, again, as part of their ‘interests’ for each bot.e.g:
 
@@ -51,10 +51,88 @@ They can sample the media streams they have access to:
 
 
 
-_This Book Of Shadows_
+# This Book Of Shadows
 
 This repo holds the C&C rituals for the bots to refer to, aids programming the bots for the chosen ritual, of course the bots can be programmed directly 
 but here we like an ease of reuse feature. :-)
 
 What this repo does not hold is the IRC bots or the backend code. That is somewhere else as the IRC server holds each bot private coven working group.
 
+
+
+# Sigil Generation Algorithms
+
+Some obivous ones such as 'snowflake', 'smudge', 'spiral' are using fractal maths so don't really 
+need to be explained, some do, and here they are:
+
+
+## _3sq_
+
+|ajs|bkt|clu|
+|---|---|---|
+|dmv|enw|fox|
+|---|---|---|
+|gpy|hqz|ip |
+
+Circle for start and cross line for end
+
+## _3sqmerlin_
+
+Number square for letter to number
+
+|1|2|3|
+|-|-|-|
+|4|5|6|
+|-|-|-|
+|7|8|9|
+
+
+|1|a|j|s|
+|2|b|k|t|
+|3|c|l|u|
+|4|d|m|v|
+|5|e|n|w|
+|6|f|o|x|
+|7|g|p|y|
+|8|h|q|z|
+|9|i|r| |
+
+
+## _3sqalpha_
+Alphabet sequenced 3x3 grid Rosicrucian chiper
+
+|abc|def|ghi|
+|---|---|---|
+|jkl|mno|pqr|
+|---|---|---|
+|stu|vwx|yz |
+
+## _lettergrid_
+
+Form a 2D letter grid places the letters left to right, top to bottom and reverses this on the bottom right corner
+
+## _rune_ (runes)
+Pick a rune from keywords in intent using the _web of wyrd_ rune layout
+
+r| rad wheel travel journey going away holiday 
+w| wyn joy pleasure happiness 
+g| gyfu gift present 
+k| cen fire heat torch enlighten
+a| os divine wisdom know knowledge
+th|porn thorn physical summon conjour
+u| ur masculine drizzle man male youth young animal strength
+f| feoh belongings cattle money currency wealth fortune
+s| sigil sun positive heat
+z| eolh protection female feminine ward
+y| eoh death decay ending end
+p| peorth hearth fruit chance random luck
+i| is matter ice light cold north freeze stop
+n| nyd destiny distress fate wyd
+h| hagel hail weather rain storm
+d| daeg dawn day rise wake
+o| odal home family ancestor place homeland world
+l| lagu lake water sea ocean womb
+m|mannaz loyalty oath
+e| eh horse animal
+b| beorc lore rune birth children
+t| tyr war fight victory tree might right
