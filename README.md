@@ -67,7 +67,7 @@ need to be explained, some do, and here they are:
 
 
 ## _3sq_
-
+|---|---|---|
 |ajs|bkt|clu|
 |dmv|enw|fox|
 |gpy|hqz|ip |
@@ -78,13 +78,13 @@ Circle for start and cross line for end
 
 Number square for letter to number
 
-
+|-|-|-|
 |1|2|3|
 |4|5|6|
 |7|8|9|
 
 
-
+|-|-|-|-|
 |1|a|j|s|
 |2|b|k|t|
 |3|c|l|u|
@@ -98,7 +98,7 @@ Number square for letter to number
 
 ## _3sqalpha_
 Alphabet sequenced 3x3 grid Rosicrucian chiper
-
+|---|---|---|
 |abc|def|ghi|
 |jkl|mno|pqr|
 |stu|vwx|yz |
@@ -109,7 +109,7 @@ Form a 2D letter grid places the letters left to right, top to bottom and revers
 
 ## _rune_ (runes)
 Pick a rune from keywords in intent using the _web of wyrd_ rune layout
-
+|-|-------------------------------------------------------------------|
 |r| rad wheel travel journey going away holiday                       |
 |w| wyn joy pleasure happiness                                        |
 |g| gyfu gift present                                                 |
