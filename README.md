@@ -112,11 +112,13 @@ Alphabet sequenced 3x3 grid Rosicrucian chiper
 
 ## _lettergrid_
 
-Form a 2D letter grid places the letters left to right, top to bottom and reverses this on the bottom right corner
+Form a 2D letter grid places the letters left to right, top to bottom and reverses this on the bottom right corner. Good with or without an encoding method, use one if the intent is 
+a long one so it stands a better chance of fitting.
 
 ## _rune_ (runes)
 
-Pick a rune from keywords in intent using the _web of wyrd_ rune layout
+Pick a rune from keywords in intent using the _web of wyrd_ rune layout. Obviously
+don't use an encoding method as it will wreak the keyword matching :-)
 
 
 | Rune | Keywords                                                                   |
