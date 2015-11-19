@@ -44,9 +44,10 @@ _Language Syntax_
 |context-waiting     | brain dump                                       | Display the current language structure                               |
 |context-waiting     | brain reset                                      | Remove any saved settings and stop                                   |
 |context-waiting     | brain save                                       | Save the current language structure                                  |
-|context-waiting     | die                                              | Cause bot to stop                                                    |
+|context-waiting     | die                                              | Cause bot to stop and remove its config                              |
 |context-waiting     | hokbos                                           | Learn a something from the hokbot-bos git repo instead of learning li|
 |context-waiting     | join coven                                       | Assign the coven that this bot will work from                        |
+|context-waiting     | leave                                            | Cause bot to save and exit                                           |
 |context-waiting     | list rituals                                     | List out the rituals the bot knows                                   |
 |context-waiting     | listen                                           | Trigger learning mode                                                |
 |context-waiting     | perform ritual                                   | Start a learned ritual                                               |
