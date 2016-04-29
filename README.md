@@ -53,7 +53,7 @@ They can sample the media streams they have access to:
 
 Attached recently are a few slides from a talk I did at Witchfest 2015 on Sigil Magic, and where I discussed this sigil bot. I didn't inlcude them in the audio recording on my blog [https://www.kiyaheike.me.uk/witchfest-2015-sigil-magic-second-life-version/] due to ensuring miss-context won't occur.
 
-I include here as some (circumstantial) evidence of success. To that I will also add that a sigil was cast for a Beltane camp I went to in 2016 where I asked for 'fair weather for camp' and the result was between days of bad weather (including snow and rain) was very warm, enough to burn me and a few friends. As that was cast outside any other attempts by myself then I will take that as another success. Such activity can of course be found on my Tumblr output for such events [hokbot.tumblr.com].
+I include here as some (circumstantial) evidence of success. To that I will also add that a sigil was cast for a Beltane camp I went to in 2016 where I asked for 'fair weather for camp' and the result was between days of bad weather (including snow and rain) was very warm, enough to burn me and a few friends. As that was cast outside any other attempts by myself then I will take that as another success. Such activity can of course be found on my Tumblr output for such events [http://hokbot.tumblr.com].
 
 
 # This Book Of Shadows
