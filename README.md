@@ -55,6 +55,8 @@ Attached recently are a few slides from a talk I did at Witchfest 2015 on Sigil 
 
 I include here as some (circumstantial) evidence of success. To that I will also add that a sigil was cast for a Beltane camp I went to in 2016 where I asked for 'fair weather for camp' and the result was between days of bad weather (including snow and rain) was very warm, enough to burn me and a few friends. As that was cast outside any other attempts by myself then I will take that as another success. Such activity can of course be found on my Tumblr output for such events [http://hokbot.tumblr.com].
 
+UPDATE: Since Tumblr have discontinued posting to the blog via email I've abandoned that output method, though 
+will still reference here for historical reasons. All content will now be redirected to my blog under the Hok Bot category. [https://www.kiyaheike.me.uk/category/hok-bot/].
 
 # This Book Of Shadows
 
@@ -68,7 +70,9 @@ What this repo does not hold is the IRC bots or the backend code. That is somewh
 # Sigil Generation Algorithms
 
 Some obivous ones such as 'snowflake', 'smudge', 'spiral' are using fractal maths so don't really 
-need to be explained, some do, and here they are:
+need to be explained, some do, and here they are! 
+
+More to come in time, along with more random effects etc.
 
 
 ## 3sq
