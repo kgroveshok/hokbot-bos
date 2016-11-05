@@ -155,4 +155,11 @@ don't use an encoding method as it will wreak the keyword matching :-)
 | b | beorc lore rune birth children                                    |
 | t | tyr war fight victory tree might right                            |
 
+## Ritual Variables and Constants
+
+ _intent_
+
+ _sigil_
+
+
 
