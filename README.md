@@ -162,4 +162,23 @@ don't use an encoding method as it will wreak the keyword matching :-)
  _sigil_
 
 
+## Expressions
+
+I've pulled code from [http://hea-www.harvard.edu/~alexey/calc.html] for handling various complex maths.
+
+Currently testing via the 'eval' syntax keyword followed by the expression. Also pulled in Astro::Nova library
+for advanced astronomical features. Looking to include Astrolog hooks for that side too.
+
+Expressions can currently do:
+
+exp, log, abs, sqrt, sin, cos, tan, asin, acos, atan, atan2(x,y)=atan(x/y)
+sind, cosd, tand, asind, acosd, atand --- degree based trig. functions; 
+                                      you can use the 'deg' constant instead.
+sinh(x), cosh(x), asinh(x), acosh(x), atanh(x), acoth(x)
+ln(x),lg(x) -> log_e(x), log_10(x)
+gamma(x), lgamma(x) - Gamma and log(Gamma) functions
+r2d(x)  = x*180/pi;  you can use the 'deg' constant instead
+fact(n) = n!, C(n,k) = n!/(k!(n-k)!)
+int, nint - integer portion and nearest integer
+CtoF,FtoC - convert between degrees centrigrade and Fahrenheit.
 
