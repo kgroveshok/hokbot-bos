@@ -155,6 +155,45 @@ don't use an encoding method as it will wreak the keyword matching :-)
 | b | beorc lore rune birth children                                    |
 | t | tyr war fight victory tree might right                            |
 
+
+## _myrune_ (_myrunes)
+
+My own rune set which can be triggered through various keywords
+
+| Keywords | Rune |
+| :------------------------------------------------------------------- | :----- |
+| wisdom truth maat trust know knowing knowledge thoth perfection order | [images/myrunes/01myrune-wisdom.png] |
+| health wellbeing heal life mend well | [images/myrunes/02myrune-health.png] |
+| wealth money prosperity abundance | [images/myrunes/03myrune-wealth.png] |
+| legal law meeting agenda authority | [images/myrunes/04myrune-legal.png] |
+| protect protection hide strong strength encircle | [images/myrunes/05myrune-protectiveforce.png] |
+| food abundance full health hunger | [images/myrunes/06myrune-food.png] |
+| evil chaos spite hate trip harm | [images/myrunes/07myrune-evil.png] |
+| creative inspiration | [images/myrunes/08myrune-creative.png] |
+| day light noon sun | [images/myrunes/09myrune-day.png] |
+| night dark midnight moon star | [images/myrunes/10myrune-night.png] |
+| success prosperity new progress | [images/myrunes/11myrune-success.png] |
+| etheral spirit ghost deity god goddess fae fairy | [images/myrunes/12myrune-etheral.png] |
+| good well happy | [images/myrunes/13myrune-good.png] |
+| business job work | [images/myrunes/14myrune-bussiness.png] |
+| female woman cup women girl maid maiden womb birth born pregnant | [images/myrunes/15myrune-female.png] |
+| misfortune crap hazzard bad unfortunate error mistake | [images/myrunes/16myrune-misfortune.png] |
+| physical real reality ground earth | [images/myrunes/17myrune-physical.png] |
+| enquiruerer me you i | [images/myrunes/18myrune-enquiruerer.png] |
+| faraway travel holiday journey away | [images/myrunes/19myrune-faraway.png] |
+| family lovedones spouse wife husband child children | [images/myrunes/20myrune-family.png] |
+| passion sex love hate anger drive | [images/myrunes/21myrune-passion.png] |
+| male man penis athame seed | [images/myrunes/22myrune-male.png] |
+| plant tree flower flowers plants trees flora | [images/myrunes/23myrune-plant.png] |
+| relationship friend friends people group | [images/myrunes/24myrune-relaltionships.png] |
+| animal fauna | [images/myrunes/25myrune-animal.png] |
+
+
+## _miscrune_ (_miscrunes_)
+
+A list of random images with keywords to activate...
+ 
+
 ## Ritual Variables and Constants
 
  _intent_
