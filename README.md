@@ -1,11 +1,23 @@
 # hokbot-bos
 HokBot Book Of Shadows
 
-You have no business here! This is coven business.
+Inception 21st June 2015
 
-But if you insist then this is a CM bot.
+## Recent Updates ##
 
-21st June 2015
+31st August 2017 - Well, after a large amount of reworking the backend server software has been rebuilt 
+to not require low level socket connections from the bots, as well as removing the dependancy on mysql for the storage of fractal graphics. This means its more portable and scalable. In fact, in theory we are now unlimited
+bot capacity.
+
+Now this is possible, a rejig of the channel structure will now include new temple based channels with suitable
+deity presence.
+
+* karnak
+* abydos
+* dendera
+* edfu
+* pselkis
+
 
 ## Objective
 
