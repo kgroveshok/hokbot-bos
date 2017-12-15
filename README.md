@@ -5,6 +5,8 @@ Inception 21st June 2015
 
 ## Recent Updates ##
 
+15th December 2017 - Its now possible to ask Apep (the Choas Engine Backend) to model a map which can be navigated by asking apep to move eg. apep n, handles currently (nwse, up or down, and look to display currently location description). More to come! Helps give context and visualisation. 
+
 31st August 2017 - Well, after a large amount of reworking the backend server software has been rebuilt 
 to not require low level socket connections from the bots, as well as removing the dependancy on mysql for the storage of fractal graphics. This means its more portable and scalable. In fact, in theory we are now unlimited
 bot capacity.
